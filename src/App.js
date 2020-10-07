@@ -47,7 +47,17 @@ function App() {
 
 	return (
 		<div className="App">
-			<h1>Pokemons</h1>
+			<a
+				href="https://seeklogo.net/?p=44822"
+				target="_blank"
+				without
+				rel="noopener noreferrer"
+			>
+				<img
+					src="https://seeklogo.net/wp-content/uploads/2013/04/pokemon-eps-vector-logo-400x400.png"
+					alt="Pokemon (.EPS) vector logo free download"
+				/>
+			</a>
 			<PokemonList pokemon={pokemon} />
 			<Pagination
 				goToNextPage={nextPageUrl ? goToNextPage : null}

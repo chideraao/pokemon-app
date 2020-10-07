@@ -1,6 +1,10 @@
-##Pokemon app
+## Pokemon app
 
-tutorial app that lists all pokemon gotten from pokeapi
+tutorial app that lists all pokemon gotten from pokeapi.
+
+As a personal challenge, i intended adding a feature to describe individual pokemon functions onclick but the API provided no opportunity for that.
+
+## Shalom!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

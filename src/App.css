@@ -8,6 +8,21 @@ body {
 	font-family: Arial, Helvetica, sans-serif;
 	line-height: 1.6;
 	font-size: 1.1rem;
+	color: #f5fafa;
+}
+img {
+	height: 13rem;
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+
+button {
+	border-radius: 8px;
+	width: 5rem;
+	height: 2rem;
+	font-size: 1.2rem;
+	margin: 2rem;
+	color: #f5fafa;
 }
 
 .App {
